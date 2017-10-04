@@ -1,16 +1,16 @@
 # play_with_git
 
-This is a repo for testing, playing, cheering and whining.
+This is a _repo_ for **testing**, playing, cheering and whining.
 
-Fork it, play with it and improve it!
+>Fork it, play with it and improve it!
 
-## Favorite Movie	
+# Favorite Cities
 
-* Test
-* Test 2
+* Seattle	
+	* Space Needle
+		* Restaurant
 
-## Test header
+## Favorite Animals
 
-1. first
-1. second
-1. third
+1. dog
+	1. German Sheppard
